@@ -7,11 +7,11 @@ public class Main {
         TreeMap<Integer, String> employeeMap = new TreeMap<>();
 
         // Add employees to the TreeMap
-        employeeMap.put(101, "John Doe");
-        employeeMap.put(102, "Jane Smith");
-        employeeMap.put(103, "Alice Johnson");
-        employeeMap.put(104, "Bob Williams");
-        employeeMap.put(105, "Eve Brown");
+        employeeMap.put(101, "Karthick");
+        employeeMap.put(102, "Nihara");
+        employeeMap.put(103, "Sathvik");
+        employeeMap.put(104, "Selvi");
+        employeeMap.put(105, "Kakoo");
 
         // Print names of all employees in alphabetical order
         System.out.println("Names of Employees in Alphabetical Order:");
